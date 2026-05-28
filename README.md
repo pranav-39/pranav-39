@@ -136,17 +136,18 @@
 
 ---
 
-📚 Research & Publications
-🚀 Patents & Innovation
+## 📚 Research & Publications
 
-Patent Pending — AI-Based Device for Real-Time Detection of Drug Consumption via Facial-Analysis
+### 🚀 Patents & Innovation
+
+Patent — AI-Based Device for Real-Time Detection of Drug Consumption via Facial-Analysis
 
 Novel computer vision approach using facial biometrics and AI for substance abuse detection
 Applications in healthcare, rehabilitation, and law enforcement monitoring
 
 
 
-📖 Book Chapters
+### 📖 Book Chapters
 
 "Case Studies of Decentralized and Immersive Education Platforms"
 
@@ -161,7 +162,7 @@ Focus: AI-driven HR transformation, talent analytics, automation in recruitment,
 
 
 
-📄 Research Papers
+### 📄 Research Papers
 
 "AI-Based Device for Real-Time Detection of Drug Consumption via Facial-Analysis"
 
@@ -170,13 +171,14 @@ Combines deep learning, computer vision, and biometric analysis for real-time su
 
 
 
-🔬 Research Interests
+### 🔬 Research Interests
 
-Computer Vision & AI for Healthcare Applications
-Decentralized and Immersive Learning Systems
-Digital Transformation in Organizational Systems
-Generative AI and Agentic AI Applications
-Patent-Driven Innovation in Emerging Technologies
+
+- Computer Vision & AI for Healthcare Applications
+- Decentralized and Immersive Learning Systems
+- Digital Transformation in Organizational Systems
+- Generative AI and Agentic AI Applications
+- Patent-Driven Innovation in Emerging Technologies
 ---
 
 📊 GitHub Stats
