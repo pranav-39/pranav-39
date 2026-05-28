@@ -136,13 +136,47 @@
 
 ---
 
-## 📚 Research & Innovation
+📚 Research & Publications
+🚀 Patents & Innovation
 
-- 📄 Research Papers & Technical Publications
-- 📚 Book Chapters on Emerging Technologies
-- 🧠 Journals & AI Research
-- 💡 Patent-Driven Innovation Projects
+Patent Pending — AI-Based Device for Real-Time Detection of Drug Consumption via Facial-Analysis
 
+Novel computer vision approach using facial biometrics and AI for substance abuse detection
+Applications in healthcare, rehabilitation, and law enforcement monitoring
+
+
+
+📖 Book Chapters
+
+"Case Studies of Decentralized and Immersive Education Platforms"
+
+IGI Global Edited Volume
+Focus: Blockchain-based learning systems, metaverse education architectures, Web3 integration in EdTech
+
+
+"Impact of Digitalization on Human Resource Management"
+
+IGI Global Edited Volume
+Focus: AI-driven HR transformation, talent analytics, automation in recruitment, digital workforce optimization
+
+
+
+📄 Research Papers
+
+"AI-Based Device for Real-Time Detection of Drug Consumption via Facial-Analysis"
+
+Submitted to IEEE Conferences
+Combines deep learning, computer vision, and biometric analysis for real-time substance abuse detection
+
+
+
+🔬 Research Interests
+
+Computer Vision & AI for Healthcare Applications
+Decentralized and Immersive Learning Systems
+Digital Transformation in Organizational Systems
+Generative AI and Agentic AI Applications
+Patent-Driven Innovation in Emerging Technologies
 ---
 
 📊 GitHub Stats
@@ -160,7 +194,7 @@
 
 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranav-39&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://gh-trophy.egpl.dev/?username=pranav-39&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 
