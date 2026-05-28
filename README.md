@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav M L</h1>
-<h3 align="center">UG Scholar • AI Engineer • Full-Stack Developer • Research & Innovation Enthusiast</h3>
+<h3 align="center">UG Scholar • Mobile App Developer • Full-Stack Developer • Research & Innovation Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/pranav-ml-35b36b291">
@@ -145,29 +145,24 @@
 
 ---
 
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-39&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=pranav-39&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pranav-39&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-two.vercel.app/?user=pranav-39&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-39&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pranav-39&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
+🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pranav-39&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
----
 
 ## 📈 Contribution Graph
 
