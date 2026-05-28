@@ -2,7 +2,7 @@
 <h3 align="center">UG Scholar • Mobile App Developer • Full-Stack Developer • Research & Innovation Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/pranav-ml-35b36b291">
+  <a href="https://linkedin.com/in/pranav-ml">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pranavaswin13@gmail.com">
