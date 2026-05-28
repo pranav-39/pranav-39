@@ -192,11 +192,6 @@ Patent-Driven Innovation in Emerging Technologies
 
 ---
 
-🏆 GitHub Trophies
-<p align="center">
-  <img src="https://gh-trophy.egpl.dev/?username=pranav-39&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
 
 ## 📈 Contribution Graph
 
