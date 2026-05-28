@@ -140,7 +140,7 @@
 
 ### 🚀 Patents & Innovation
 
-Patent — AI-Based Device for Real-Time Detection of Drug Consumption via Facial-Analysis
+**Patent — AI-Based Device for Real-Time Detection of Drug Consumption via Facial-Analysis**
 
 Novel computer vision approach using facial biometrics and AI for substance abuse detection
 Applications in healthcare, rehabilitation, and law enforcement monitoring
@@ -149,22 +149,20 @@ Applications in healthcare, rehabilitation, and law enforcement monitoring
 
 ### 📖 Book Chapters
 
-"Case Studies of Decentralized and Immersive Education Platforms"
+**"Case Studies of Decentralized and Immersive Education Platforms**"
 
-IGI Global Edited Volume
-Focus: Blockchain-based learning systems, metaverse education architectures, Web3 integration in EdTech
+- Focus: Blockchain-based learning systems, metaverse education architectures, Web3 integration in EdTech
 
 
-"Impact of Digitalization on Human Resource Management"
+**"Impact of Digitalization on Human Resource Management"**
 
-IGI Global Edited Volume
-Focus: AI-driven HR transformation, talent analytics, automation in recruitment, digital workforce optimization
+- Focus: AI-driven HR transformation, talent analytics, automation in recruitment, digital workforce optimization
 
 
 
 ### 📄 Research Papers
 
-"AI-Based Device for Real-Time Detection of Drug Consumption via Facial-Analysis"
+**"AI-Based Device for Real-Time Detection of Drug Consumption via Facial-Analysis"**
 
 Submitted to IEEE Conferences
 Combines deep learning, computer vision, and biometric analysis for real-time substance abuse detection
@@ -181,7 +179,7 @@ Combines deep learning, computer vision, and biometric analysis for real-time su
 - Patent-Driven Innovation in Emerging Technologies
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=pranav-39&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
