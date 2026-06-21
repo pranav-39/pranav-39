@@ -122,16 +122,22 @@
 - Added crop disease detection, market prediction, and multilingual farmer support
 - Integrated Firebase services for authentication and real-time cloud synchronization
 
-### 🌍 Urban Pollution Visualizer
-- Built an environmental analytics dashboard using **React** and **OpenAQ APIs**
-- Visualized real-time pollution trends through interactive maps and charts
-- Proposed data-driven urban sustainability insights
+### 🚨 AlertSphere
+• Built an AI-powered civic alert platform delivering real-time disruption notifications via WhatsApp.
+• Engineered FastAPI + PostgreSQL + Redis backend with Gemma 3 NLP for multilingual alert classification.
+• Implemented AI-driven duplicate detection and Google Maps integration for location-verified heatmap reporting.
+
+### 🛰️ AI Space Station Safety Detection
+• Built a YOLOv8-based object detection system for seven safety-critical space-station equipment classes.
+• Trained on Falcon synthetic datasets with diverse lighting, occlusion, and camera angle variations.
+• Evaluated and optimized model using mAP, precision, recall, and augmentation strategies for robustness.
 
 ---
 
 ## 🏆 Achievements
 
 - 🥇 **Google Agentic AI Hackathon Finalist** — TOP 90 / 2000+
+- 🥇 **Yukthi 2.0 CTF** — TOP 30/300+
 - 💼 **STEP MS Intern @ CDW**
 
 ---
